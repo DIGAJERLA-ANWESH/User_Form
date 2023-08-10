@@ -1,0 +1,54 @@
+body {
+    background-image: url(https://img.freepik.com/free-vector/circles-background-dark-tones_60389-166.jpg?w=1380&t=st=1691644845~exp=1691645445~hmac=b19552601b7bb6988006f86482e5f526744c00ecc31ec804bdc8c012896199e9); /* Add your background image URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: black;
+    
+  }
+
+  .container {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 10%;
+    
+  }
+
+  .form-heading {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+
+  }
+
+  .error-message {
+    color: #ff0000;
+    font-size: 14px;
+    margin-top: 5px;
+  }
+
+  .gender-field-heading {
+    color: #333;
+    font-size: 18px;
+    margin-top: 10px;
+  }
+
+  label {
+    color: #333;
+    font-weight: bold;
+  }
+
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+
+/* 
+.container{
+    border: solid black 10px;
+    margin: 100px;
+   
+  } */
